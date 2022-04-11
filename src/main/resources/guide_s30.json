@@ -1,0 +1,130 @@
+{
+  "imDbId": "tt0062588",
+  "title": "Mister Rogers' Neighborhood",
+  "fullTitle": "Mister Rogers' Neighborhood (TV Series 1968–2001)",
+  "type": "TVSeries",
+  "year": "1968",
+  "episodes": [
+    {
+      "id": "tt0649657",
+      "seasonNumber": "30",
+      "episodeNumber": "1",
+      "title": "1751: Curiosity",
+      "image": "https://imdb-api.com/images/original/MV5BMTg0MTg2OTU2OF5BMl5BanBnXkFtZTgwNTg4NDU2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "2000",
+      "released": "21 Feb. 2000",
+      "plot": "Mister Rogers remembers a visit to \"The Edible Schoolyard\" where children garden and cook the food they've grown. In Make-Believe Purple Panda and a Little Panda play a joke on King Friday. He doesn't like that and \"forbids\" curiosity.",
+      "imDbRating": "8.5",
+      "imDbRatingCount": "10"
+    },
+    {
+      "id": "tt0649658",
+      "seasonNumber": "30",
+      "episodeNumber": "2",
+      "title": "1752: Curiosity",
+      "image": "https://imdb-api.com/images/original/MV5BMjEzMzQ0MzgzNl5BMl5BanBnXkFtZTgwMzE5NDU2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "2000",
+      "released": "22 Feb. 2000",
+      "plot": "Mister Rogers visits musicians who make instruments from found objects. In Make-Believe, the King has banned curiosity, but the neighbors can't stop being curious. And Mister Rogers is curious about how people make ice cream cones.",
+      "imDbRating": "8.0",
+      "imDbRatingCount": "11"
+    },
+    {
+      "id": "tt0649659",
+      "seasonNumber": "30",
+      "episodeNumber": "3",
+      "title": "1753: Curiosity",
+      "image": "https://imdb-api.com/images/original/MV5BMTU2OTI5ODA0M15BMl5BanBnXkFtZTgwODY4NDU2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "2000",
+      "released": "23 Feb. 2000",
+      "plot": "Mister Rogers rides up in a bucket lift. In Make-Believe, Prince Tuesday is curious about the Planet Purple way of traveling magically and has gone on an adventure.",
+      "imDbRating": "8.7",
+      "imDbRatingCount": "10"
+    },
+    {
+      "id": "tt3813546",
+      "seasonNumber": "30",
+      "episodeNumber": "4",
+      "title": "1754: Curiosity",
+      "image": "https://imdb-api.com/images/original/MV5BNGIwODNlMzgtOGVmZS00NTgyLWFmZDQtNmI3YzU2YmIyNjkwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.7778_AL_.jpg",
+      "year": "2000",
+      "released": "24 Feb. 2000",
+      "plot": "Rogers gives a final discussion on false faces. He then visits a new studio set, the toy-and-book store run by a new neighbor, Tony Chiroldes. In the Neighborhood of Make-Believe, everyone is still looking for Little Panda and Prince Tuesday. Betty Okonak Templeton uses a telescope, as do the others, to discover just the planet to seek. It is up to HulaMouse to rescue Tuesday and Little Panda.",
+      "imDbRating": "8.3",
+      "imDbRatingCount": "9"
+    },
+    {
+      "id": "tt0649660",
+      "seasonNumber": "30",
+      "episodeNumber": "5",
+      "title": "1755: Curiosity",
+      "image": "https://imdb-api.com/images/original/MV5BNzI5MTI2NTM5NF5BMl5BanBnXkFtZTgwNTY5NDU2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "2000",
+      "released": "25 Feb. 2000",
+      "plot": "Mister Rogers visits virtuoso violinist Hilary Hahn. He reads a bedtime story. It's nighttime in Make-Believe. Prince Tuesday and Little Panda are rescued from outer space by Hula Mouse. King Friday learns that curiosity is a good thing.",
+      "imDbRating": "8.9",
+      "imDbRatingCount": "12"
+    },
+    {
+      "id": "tt3813536",
+      "seasonNumber": "30",
+      "episodeNumber": "6",
+      "title": "1756: Ready to Read?",
+      "image": "https://imdb-api.com/images/original/MV5BZjUzMDViOGUtMWYwZS00ZDBhLTg1MWMtYWI3ZGFjMDEzMGUwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.7778_AL_.jpg",
+      "year": "2000",
+      "released": "28 Aug. 2000",
+      "plot": "Rogers immediately goes to see elephants of different sizes. He also shows a video on how backpacks are made. In the Neighborhood of Make-Believe, an over-curious King Friday asks that Cornflake S. Pecially should build a machine to look inside of things.",
+      "imDbRating": "8.5",
+      "imDbRatingCount": "11"
+    },
+    {
+      "id": "tt3813542",
+      "seasonNumber": "30",
+      "episodeNumber": "7",
+      "title": "1757: Ready to Read?",
+      "image": "https://imdb-api.com/images/original/MV5BMjMzMGNmOWMtNGE0Mi00ZjgzLTliMzItYjQ5ZTZkY2RjOTY0XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.7778_AL_.jpg",
+      "year": "2000",
+      "released": "29 Aug. 2000",
+      "plot": "Rogers visits guitarist Manuel Barrueco at Negri's Music Shop. In the Neighborhood of Make-Believe, Queen Sara gives HulaMouse a picture with several hoops and a few hidden letters.",
+      "imDbRating": "8.4",
+      "imDbRatingCount": "8"
+    },
+    {
+      "id": "tt0649743",
+      "seasonNumber": "30",
+      "episodeNumber": "8",
+      "title": "1758: Ready to Read?",
+      "image": "https://imdb-api.com/images/original/MV5BMTA1NjgyNjAxMDdeQTJeQWpwZ15BbWU4MDIyNTQ1NjIx._V1_Ratio1.7778_AL_.jpg",
+      "year": "2000",
+      "released": "30 Aug. 2000",
+      "plot": "Mister Rogers uses art forms to illustrate words. The word \"fish\" goes with a graceful ballerina dancing on a \"river.\" A \"Night and Day\" poem connects with a video. In Make-Believe, a neighbor is embarrassed he can't read well and hides.",
+      "imDbRating": "8.0",
+      "imDbRatingCount": "9"
+    },
+    {
+      "id": "tt3813550",
+      "seasonNumber": "30",
+      "episodeNumber": "9",
+      "title": "1759: Ready to Read?",
+      "image": "https://imdb-api.com/images/original/MV5BZTlmMDI2OWQtNWNmOC00NTVkLWI2ZmQtNmZjN2E4OGFmY2U0XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.7778_AL_.jpg",
+      "year": "2000",
+      "released": "31 Aug. 2000",
+      "plot": "Chuck Aber visits the television house with his H.J. Elephant III puppet and the book I Read Signs. In the Neighborhood of Make-Believe, Lady Aberlin discovers H.J. Elephant III knows sign language. What nobody knows is how to get H.J. involved in The Reading Game.",
+      "imDbRating": "8.0",
+      "imDbRatingCount": "8"
+    },
+    {
+      "id": "tt3813556",
+      "seasonNumber": "30",
+      "episodeNumber": "10",
+      "title": "1760: Ready to Read?",
+      "image": "https://imdb-api.com/images/original/MV5BOGYyZjRiYTEtMzliOC00NWFjLWFkYzQtODAxZWUxODk3ZDQ5XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.7778_AL_.jpg",
+      "year": "2000",
+      "released": "1 Sep. 2000",
+      "plot": "Given assistance from Mayor Maggie, H.J. Elephant reads his first words on Lady Elaine's new show, The Reading Game. Mr. McFeely shows Rogers a video on how ball caps are made.",
+      "imDbRating": "8.2",
+      "imDbRatingCount": "8"
+    }
+  ],
+  "errorMessage": ""
+}

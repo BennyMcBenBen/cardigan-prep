@@ -1,0 +1,130 @@
+{
+  "imDbId": "tt0062588",
+  "title": "Mister Rogers' Neighborhood",
+  "fullTitle": "Mister Rogers' Neighborhood (TV Series 1968–2001)",
+  "type": "TVSeries",
+  "year": "1968",
+  "episodes": [
+    {
+      "id": "tt1915138",
+      "seasonNumber": "27",
+      "episodeNumber": "1",
+      "title": "1711: Sharing",
+      "image": "https://imdb-api.com/images/original/MV5BMTYzODQyMTUyMl5BMl5BanBnXkFtZTgwNDU5MDY2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "1997",
+      "released": "16 Feb. 1997",
+      "plot": "Mister Rogers remembers a time he and and a teenager who is a Paralympic swimmer went swimming together. In Make- Believe King Friday goes swimming and discovers that his crown is missing. Mister Rogers talks about different ways to share.",
+      "imDbRating": "8.3",
+      "imDbRatingCount": "8"
+    },
+    {
+      "id": "tt2664372",
+      "seasonNumber": "27",
+      "episodeNumber": "2",
+      "title": "1712: Sharing",
+      "image": "https://imdb-api.com/images/original/MV5BMjA3MjQ1NjU1MF5BMl5BanBnXkFtZTgwMzI0MzU2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "1997",
+      "released": "18 Feb. 1997",
+      "plot": "Mister Rogers visits a sculptor who finds throw-away objects and recycles them into whimsical sculptures. Mister Rogers makes a sculpture too. In Make-Believe, Lady Elaine has her own ideas about \"sharing.\" She just takes things she wants.",
+      "imDbRating": "7.8",
+      "imDbRatingCount": "8"
+    },
+    {
+      "id": "tt2664354",
+      "seasonNumber": "27",
+      "episodeNumber": "3",
+      "title": "1713: Sharing",
+      "image": "https://imdb-api.com/images/original/MV5BNTU0MTUyMjc5M15BMl5BanBnXkFtZTgwOTA0MzU2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "1997",
+      "released": "19 Feb. 1997",
+      "plot": "Mister Rogers shows an apple and video of how people make apple juice in a factory. He helps children know that it's not just \"things\" that people share, we can also share something we know with someone else. Teachers do that all the time.",
+      "imDbRating": "8.6",
+      "imDbRatingCount": "9"
+    },
+    {
+      "id": "tt2664358",
+      "seasonNumber": "27",
+      "episodeNumber": "4",
+      "title": "1714: Sharing",
+      "image": "https://imdb-api.com/images/original/MV5BNTU2MjI3MTM3OF5BMl5BanBnXkFtZTgwMDI0MzU2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "1997",
+      "released": "20 Feb. 1997",
+      "plot": "Mister Rogers visits a paper sculptor and sees how a he makes his unique art. In Make-Believe, Lady Elaine learns that she can't just take what she wants. Mr. McFeely brings a fig bar to share and a video showing how people make them.",
+      "imDbRating": "8.2",
+      "imDbRatingCount": "9"
+    },
+    {
+      "id": "tt0649744",
+      "seasonNumber": "27",
+      "episodeNumber": "5",
+      "title": "1715: Sharing",
+      "image": "https://imdb-api.com/images/original/MV5BMjI1NDg3Mjk0NV5BMl5BanBnXkFtZTgwMTY1NDU2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "1997",
+      "released": "21 Feb. 1997",
+      "plot": "Bill Nye \"the Science Guy\" stops by to show a science experiment using baking soda and vinegar to blow up a balloon. Mister Rogers shows a video of dump trucks at a construction site, and In Make-Believe, all that was lost is found.",
+      "imDbRating": "8.4",
+      "imDbRatingCount": "25"
+    },
+    {
+      "id": "tt0649642",
+      "seasonNumber": "27",
+      "episodeNumber": "6",
+      "title": "1716: Be Yourself: That's the Best",
+      "image": "https://imdb-api.com/images/original/MV5BMTg2ODkzODMxOV5BMl5BanBnXkFtZTgwNjc4NDU2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "1997",
+      "released": "25 Aug. 1997",
+      "plot": "There's a visit with the juggling group, the Flying Karamazov Brothers, a video of how people in a pasta factory make macaroni and talk about liking you \"just the way you are.\" In Make-Believe, X the Owl is giving free flying lessons.",
+      "imDbRating": "8.7",
+      "imDbRatingCount": "13"
+    },
+    {
+      "id": "tt0649641",
+      "seasonNumber": "27",
+      "episodeNumber": "7",
+      "title": "1717: Be Yourself",
+      "image": "https://imdb-api.com/images/original/MV5BMTg2Mzc5MTcyM15BMl5BanBnXkFtZTgwNDA5NDU2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "1997",
+      "released": "26 Aug. 1997",
+      "plot": "Magician David Copperfield teaches Mister Rogers how to do a magic trick. It takes lots of practice. In Make-Believe, X is giving flying lessons, and there's a video of what the world looks like from a bird's point of view.",
+      "imDbRating": "8.0",
+      "imDbRatingCount": "10"
+    },
+    {
+      "id": "tt1738047",
+      "seasonNumber": "27",
+      "episodeNumber": "8",
+      "title": "1718: Be Yourself",
+      "image": "https://imdb-api.com/images/original/MV5BMTc4OTQ0NjM3MV5BMl5BanBnXkFtZTgwMjYzNDY2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "1997",
+      "released": "27 Aug. 1997",
+      "plot": "Mister Rogers visits with the Uptown String Quartet and listens carefully to how each of the instruments sounds alone and together. In Make-Believe, Prince Tuesday gets hurt when he thinks his \"magic hat\" can make him fly.",
+      "imDbRating": "7.9",
+      "imDbRatingCount": "11"
+    },
+    {
+      "id": "tt1738048",
+      "seasonNumber": "27",
+      "episodeNumber": "9",
+      "title": "1719: Be Yourself",
+      "image": "https://imdb-api.com/images/original/MV5BMTUwNjQ0ODc0Nl5BMl5BanBnXkFtZTgwMjczNDY2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "1997",
+      "released": "28 Aug. 1997",
+      "plot": "Mister Rogers brings a sleeping bag and a video of how people make them. In Make-Believe, the neighbors are learning that adults make rules because they want children to be safe. And there's a visit with a woman who makes bean bag dolls.",
+      "imDbRating": "8.3",
+      "imDbRatingCount": "8"
+    },
+    {
+      "id": "tt1738049",
+      "seasonNumber": "27",
+      "episodeNumber": "10",
+      "title": "1720: Be Yourself",
+      "image": "https://imdb-api.com/images/original/MV5BMTU2Njc5NzM5MF5BMl5BanBnXkFtZTgwMTM0NDY2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "1997",
+      "released": "29 Aug. 1997",
+      "plot": "Mister Rogers brings a hula hoop and watches as others perform with them. It takes a lot of practice to use a hula hoop. In Make-Believe, the neighbors are learning to be more careful. And there's a video of babies learning how to walk.",
+      "imDbRating": "8.2",
+      "imDbRatingCount": "11"
+    }
+  ],
+  "errorMessage": ""
+}

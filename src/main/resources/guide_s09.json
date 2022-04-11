@@ -1,0 +1,70 @@
+{
+  "imDbId": "tt0062588",
+  "title": "Mister Rogers' Neighborhood",
+  "fullTitle": "Mister Rogers' Neighborhood (TV Series 1968–2001)",
+  "type": "TVSeries",
+  "year": "1968",
+  "episodes": [
+    {
+      "id": "tt3813260",
+      "seasonNumber": "9",
+      "episodeNumber": "1",
+      "title": "1456",
+      "image": "",
+      "year": "1976",
+      "released": "16 Feb. 1976",
+      "plot": "Rogers takes viewers to his garage, which is filled with all of the show's puppets, scripts, videotapes, and other memorabilia. He and Mr. McFeely watch a videotape of episode 32 from season 2. In the Neighborhood of Make-Believe, X reminds Lady Aberlin how to prepare the crystal ball for gazing into the future.",
+      "imDbRating": "8.2",
+      "imDbRatingCount": "7"
+    },
+    {
+      "id": "tt3813256",
+      "seasonNumber": "9",
+      "episodeNumber": "2",
+      "title": "1457",
+      "image": "",
+      "year": "1976",
+      "released": "17 Feb. 1976",
+      "plot": "Rogers brings all the Neighborhood of Make-Believe models to the garage, where he and Betty Aberlin watch a videotape of Episode 1013. In the Neighborhood of Make-Believe, Lady Elaine has painted the crystal ball to try to cut down the time needed to look into one's future. But the paint causes no end of problems.",
+      "imDbRating": "8.0",
+      "imDbRatingCount": "7"
+    },
+    {
+      "id": "tt0649634",
+      "seasonNumber": "9",
+      "episodeNumber": "3",
+      "title": "1458",
+      "image": "",
+      "year": "1976",
+      "released": "18 Feb. 1976",
+      "plot": "Joe Negri goes to Rogers' garage to tape actress Mari Gardner performing nursery rhymes. The Neighborhood of Make-Believe calls out for Princess Margaret H. Witch to remove the paint from the crystal ball.",
+      "imDbRating": "8.2",
+      "imDbRatingCount": "8"
+    },
+    {
+      "id": "tt0649635",
+      "seasonNumber": "9",
+      "episodeNumber": "4",
+      "title": "1459",
+      "image": "",
+      "year": "1976",
+      "released": "19 Feb. 1976",
+      "plot": "Mister Rogers returns to his garage to replay Chef Brockett's first appearance in the television house. Margaret H. Witch returns to help clean up the disabled crystal ball. But she can't do it without Lady Elaine, who had painted one side of the crystal ball red and the other half blue. When Lady Elaine confesses, she plays the last part in getting the crystal ball back to normal.",
+      "imDbRating": "8.2",
+      "imDbRatingCount": "11"
+    },
+    {
+      "id": "tt0771261",
+      "seasonNumber": "9",
+      "episodeNumber": "5",
+      "title": "1460",
+      "image": "",
+      "year": "1976",
+      "released": "20 Feb. 1976",
+      "plot": "After replacing a light bulb in the traffic light in the television house, Rogers looks back at his visit to Officer Clemmons' police station. He and François Clemmons discuss some of the operas in which Clemmons performed. Lady Aberlin sees what the future holds for Daniel and X.",
+      "imDbRating": "8.4",
+      "imDbRatingCount": "8"
+    }
+  ],
+  "errorMessage": ""
+}

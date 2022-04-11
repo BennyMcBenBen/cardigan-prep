@@ -1,0 +1,130 @@
+{
+  "imDbId": "tt0062588",
+  "title": "Mister Rogers' Neighborhood",
+  "fullTitle": "Mister Rogers' Neighborhood (TV Series 1968–2001)",
+  "type": "TVSeries",
+  "year": "1968",
+  "episodes": [
+    {
+      "id": "tt2664340",
+      "seasonNumber": "24",
+      "episodeNumber": "1",
+      "title": "1671: Things to Wear",
+      "image": "https://imdb-api.com/images/original/MV5BMTU3ODQ2ODAxNl5BMl5BanBnXkFtZTgwNTA0MzU2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "1994",
+      "released": "21 Feb. 1994",
+      "plot": "On a bus ride through different neighborhoods Mister Rogers notices all kinds of people and the variety of clothes they wear. In Make-Believe, King Friday receives a three-cornered hat and makes a rule that everyone must wear one.",
+      "imDbRating": "7.7",
+      "imDbRatingCount": "9"
+    },
+    {
+      "id": "tt2213256",
+      "seasonNumber": "24",
+      "episodeNumber": "2",
+      "title": "1672: Things to Wear",
+      "image": "",
+      "year": "1994",
+      "released": "22 Feb. 1994",
+      "plot": "Rogers inevitably fools Marilyn Barnett by donning the Bob Dog costume. Mr. McFeely shows a videotape on how blue jeans are made. Lady Elaine Fairchilde provides the only resistance to King Friday's insistence that everyone and everything in the Neighborhood of Make-Believe should wear the three-cornered hat from the 18th Century.",
+      "imDbRating": "7.9",
+      "imDbRatingCount": "9"
+    },
+    {
+      "id": "tt2116406",
+      "seasonNumber": "24",
+      "episodeNumber": "3",
+      "title": "1673: Things to Wear",
+      "image": "https://imdb-api.com/images/original/MV5BMjMyMTc1OTEzOF5BMl5BanBnXkFtZTgwNDgyOTU2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "1994",
+      "released": "23 Feb. 1994",
+      "plot": "Rogers sees Alan Morrison play the organ at a nearby church. Lady Elaine Fairchilde squirts water at anyone who mentions \"three-cornered hat\" to her. King Friday hardens his position with a rule.",
+      "imDbRating": "7.9",
+      "imDbRatingCount": "9"
+    },
+    {
+      "id": "tt2664342",
+      "seasonNumber": "24",
+      "episodeNumber": "4",
+      "title": "1674: Things to Wear",
+      "image": "https://imdb-api.com/images/original/MV5BMTY1MTg2MjA3NF5BMl5BanBnXkFtZTgwNjE0MzU2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "1994",
+      "released": "24 Feb. 1994",
+      "plot": "Mister Rogers visits an organist who's rehearsing with a young flutist and clarinetist. In Make-Believe, Lady Elaine finds a solution for King Friday's \"three-cornered\" rule. Mister Rogers shows a video of how people make paper bags.",
+      "imDbRating": "8.3",
+      "imDbRatingCount": "9"
+    },
+    {
+      "id": "tt2664348",
+      "seasonNumber": "24",
+      "episodeNumber": "5",
+      "title": "1675: Things to Wear",
+      "image": "https://imdb-api.com/images/original/MV5BNjM0OTk4MjU4NF5BMl5BanBnXkFtZTgwMjE0MzU2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "1994",
+      "released": "25 Feb. 1994",
+      "plot": "Mister Rogers shows a sewing machine and a video of a visit to a millinery shop in Colonial Williamsburg to show different kinds of clothing from long ago. In Make-Believe, King Friday and Lady Elaine resolve their differences about hats.",
+      "imDbRating": "8.3",
+      "imDbRatingCount": "9"
+    },
+    {
+      "id": "tt0649697",
+      "seasonNumber": "24",
+      "episodeNumber": "6",
+      "title": "1676: Going Away and Coming Back",
+      "image": "https://imdb-api.com/images/original/MV5BMjM2MzY1NDE5Nl5BMl5BanBnXkFtZTgwMjg5NDU2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "1994",
+      "released": "29 Aug. 1994",
+      "plot": "A map of the world painted by a friend of Rogers is shown on the back of an old floor covering. Rogers demonstrates traveling from place to place. Dan Kamin demonstrates his mime act. He acts as a mime character in the Neighborhood of Make-Believe.",
+      "imDbRating": "8.0",
+      "imDbRatingCount": "9"
+    },
+    {
+      "id": "tt2664388",
+      "seasonNumber": "24",
+      "episodeNumber": "7",
+      "title": "1677: Going Away and Coming Back",
+      "image": "https://imdb-api.com/images/original/MV5BMTQ2NDkxOTE0OV5BMl5BanBnXkFtZTgwOTI0MzU2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "1994",
+      "released": "30 Aug. 1994",
+      "plot": "Mister Rogers meets paramedics who show him the inside of an ambulance and some of the equipment they use to help people. He's even strapped onto their stretcher! In Make-Believe, the neighbors use a map to search for a hidden tunnel.",
+      "imDbRating": "8.7",
+      "imDbRatingCount": "11"
+    },
+    {
+      "id": "tt2664356",
+      "seasonNumber": "24",
+      "episodeNumber": "8",
+      "title": "1678: Going Away and Coming Back",
+      "image": "https://imdb-api.com/images/original/MV5BMTQxNzkzODkzN15BMl5BanBnXkFtZTgwMjI0MzU2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "1994",
+      "released": "31 Aug. 1994",
+      "plot": "Mister Rogers helps children understand that it takes practice to do anything well. He watches wheelchair basketball players dribble and shoot and marvels at their skill. In Make-Believe, the neighbors find a clue to the mysterious tunnel.",
+      "imDbRating": "8.3",
+      "imDbRatingCount": "8"
+    },
+    {
+      "id": "tt2664368",
+      "seasonNumber": "24",
+      "episodeNumber": "9",
+      "title": "1679: Going Away and Coming Back",
+      "image": "https://imdb-api.com/images/original/MV5BNTU5MDk2NDQ3MF5BMl5BanBnXkFtZTgwNDI0MzU2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "1994",
+      "released": "1 Sep. 1994",
+      "plot": "Children are intrigued by car washes, but some have fears about them. Mr. McFeely shows a video of his drive through a car wash. In Make-Believe, the neighbors are excited when they find the last clue they need to find the hidden tunnel.",
+      "imDbRating": "8.0",
+      "imDbRatingCount": "8"
+    },
+    {
+      "id": "tt2664418",
+      "seasonNumber": "24",
+      "episodeNumber": "10",
+      "title": "1680: Going Away and Coming Back",
+      "image": "https://imdb-api.com/images/original/MV5BMTk4NTY4MzQyOV5BMl5BanBnXkFtZTgwMTkzMzU2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "1994",
+      "released": "2 Sep. 1994",
+      "plot": "Mister Rogers drives an earth mover. He drives it away and back and helps children trust that people who go away will come back. In Make-Believe, the neighbors find the hidden tunnel. And there's a video of how people make tortilla chips.",
+      "imDbRating": "8.5",
+      "imDbRatingCount": "8"
+    }
+  ],
+  "errorMessage": ""
+}
