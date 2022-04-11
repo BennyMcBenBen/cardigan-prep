@@ -1,0 +1,130 @@
+{
+  "imDbId": "tt0062588",
+  "title": "Mister Rogers' Neighborhood",
+  "fullTitle": "Mister Rogers' Neighborhood (TV Series 1968–2001)",
+  "type": "TVSeries",
+  "year": "1968",
+  "episodes": [
+    {
+      "id": "tt1677331",
+      "seasonNumber": "25",
+      "episodeNumber": "1",
+      "title": "1681: Fast and Slow",
+      "image": "https://imdb-api.com/images/original/MV5BMTk2NzgzNjE4OV5BMl5BanBnXkFtZTgwNDI0NzU2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "1995",
+      "released": "20 Feb. 1995",
+      "plot": "Mister Rogers helps children know that some things are done better slowly and thoughtfully. He shows a factory video of how people make strollers. In Make-Believe, the Trolley shows how it can go fast and slow, but now it will only go fast!",
+      "imDbRating": "8.2",
+      "imDbRatingCount": "8"
+    },
+    {
+      "id": "tt1615338",
+      "seasonNumber": "25",
+      "episodeNumber": "2",
+      "title": "1682: Fast and Slow",
+      "image": "https://imdb-api.com/images/original/MV5BMTUzODU1NjEwMl5BMl5BanBnXkFtZTgwMjgxNzU2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "1995",
+      "released": "21 Feb. 1995",
+      "plot": "Mister Rogers shows a video of how people make roller skates and a video of himself roller skating. In Make-Believe, on fast moving roller skates, Lady Aberlin and Cousin Steve Owl try to catch the fast moving Trolley that won't slow down.",
+      "imDbRating": "7.8",
+      "imDbRatingCount": "8"
+    },
+    {
+      "id": "tt1549365",
+      "seasonNumber": "25",
+      "episodeNumber": "3",
+      "title": "1683: Fast and Slow",
+      "image": "https://imdb-api.com/images/original/MV5BMTk1ODMwOTMzNF5BMl5BanBnXkFtZTgwOTIwOTU2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "1995",
+      "released": "22 Feb. 1995",
+      "plot": "Mister Rogers shows a Speedy Delivery Alphabet Book. He helps children know that what's important is learning how to put letters together to make words, not saying them speedy. In Make-Believe, the neighbors try to stop a speeding Trolley.",
+      "imDbRating": "8.3",
+      "imDbRatingCount": "8"
+    },
+    {
+      "id": "tt0649682",
+      "seasonNumber": "25",
+      "episodeNumber": "4",
+      "title": "1684: Fast and Slow",
+      "image": "https://imdb-api.com/images/original/MV5BMTQ4ODA1NDc4MF5BMl5BanBnXkFtZTgwMTg3NDU2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "1995",
+      "released": "23 Feb. 1995",
+      "plot": "Mister Rogers visits with a world-class gymnast who demonstrates some some fast and slow gymnastic routines - floor exercises and feats on the rings. In Make-Believe, even King Friday's command to \"Slow down\" won't stop a speeding Trolley.",
+      "imDbRating": "8.3",
+      "imDbRatingCount": "9"
+    },
+    {
+      "id": "tt1680947",
+      "seasonNumber": "25",
+      "episodeNumber": "5",
+      "title": "1685: Fast and Slow",
+      "image": "https://imdb-api.com/images/original/MV5BNDc3OTU0NjY5OF5BMl5BanBnXkFtZTgwNTY3ODU2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "1995",
+      "released": "24 Feb. 1995",
+      "plot": "Mister Rogers helps children know that doing some things slowly is best. He shows a video of children doing all kinds of things and taking their time. In Make-Believe, the neighbors finally find a way to slow down a speeding Trolley.",
+      "imDbRating": "8.3",
+      "imDbRatingCount": "8"
+    },
+    {
+      "id": "tt0649680",
+      "seasonNumber": "25",
+      "episodeNumber": "6",
+      "title": "1686: Everybody's Special",
+      "image": "https://imdb-api.com/images/original/MV5BMTk5NDk1NzczN15BMl5BanBnXkFtZTgwOTA4NDU2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "1995",
+      "released": "28 Aug. 1995",
+      "plot": "Maggie Stewart and Chef Brockett are making layer sandwiches for Maggie's upcoming family reunion. Rogers shows a video on how Corelle dinner plates are made. In the Neighborhood of Make Believe, preparations are underway for Cornflake S. Pecially's surprise birthday party, and Prince Tuesday feels uncomfortable with his special royal clothes.",
+      "imDbRating": "8.4",
+      "imDbRatingCount": "10"
+    },
+    {
+      "id": "tt1618678",
+      "seasonNumber": "25",
+      "episodeNumber": "7",
+      "title": "1687: Everybody's Special",
+      "image": "https://imdb-api.com/images/original/MV5BMjUwMzY5NjQ4OV5BMl5BanBnXkFtZTgwMTM3NDU2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "1995",
+      "released": "29 Aug. 1995",
+      "plot": "The Royal Family continues their plans to Cornflake S. Pecially's birthday and to comfort Prince Tuesday (enlisting Robert Troll in the process). Rogers also shows a video on how wooden shoes are made.",
+      "imDbRating": "7.8",
+      "imDbRatingCount": "8"
+    },
+    {
+      "id": "tt1618679",
+      "seasonNumber": "25",
+      "episodeNumber": "8",
+      "title": "1688: Everybody's Special",
+      "image": "https://imdb-api.com/images/original/MV5BMjMxNTg0MjQyNV5BMl5BanBnXkFtZTgwNDI3NDU2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "1995",
+      "released": "30 Aug. 1995",
+      "plot": "Lady Aberlin, dressed as a lion, discovers the dour Prince Tuesday, who is upset that his robe disrupts his guitar lessons.",
+      "imDbRating": "7.8",
+      "imDbRatingCount": "8"
+    },
+    {
+      "id": "tt1619229",
+      "seasonNumber": "25",
+      "episodeNumber": "9",
+      "title": "1689: Everybody's Special",
+      "image": "https://imdb-api.com/images/original/MV5BMjM0NTY0ODc2Ml5BMl5BanBnXkFtZTgwMTAyNTU2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "1995",
+      "released": "31 Aug. 1995",
+      "plot": "Rogers shows some of the Neighborhood of Make-Believe puppets and introduces the puppeteer who created Prince Tuesday, Lenny Meledandri. In the Neighborhood of Make-Believe, several people have to console Prince Tuesday, who has removed his robe.",
+      "imDbRating": "7.4",
+      "imDbRatingCount": "9"
+    },
+    {
+      "id": "tt1620240",
+      "seasonNumber": "25",
+      "episodeNumber": "10",
+      "title": "1690: Everybody's Special",
+      "image": "https://imdb-api.com/images/original/MV5BNTgzODgwNzQ4NF5BMl5BanBnXkFtZTgwNTY5MTU2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "1995",
+      "released": "1 Sep. 1995",
+      "plot": "Cornflake S. Pecially feels everyone has forgotten that today is his birthday. It adds to the drama of the surprise birthday party, for which Daniel and Prince Tuesday have made a card.",
+      "imDbRating": "7.8",
+      "imDbRatingCount": "8"
+    }
+  ],
+  "errorMessage": ""
+}

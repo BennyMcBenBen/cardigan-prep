@@ -1,0 +1,70 @@
+{
+  "imDbId": "tt0062588",
+  "title": "Mister Rogers' Neighborhood",
+  "fullTitle": "Mister Rogers' Neighborhood (TV Series 1968–2001)",
+  "type": "TVSeries",
+  "year": "1968",
+  "episodes": [
+    {
+      "id": "tt0784094",
+      "seasonNumber": "31",
+      "episodeNumber": "1",
+      "title": "1761: Celebrates the Arts",
+      "image": "https://imdb-api.com/images/original/MV5BMTg2NTE3NDcxOV5BMl5BanBnXkFtZTgwNDgyNTY2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "2001",
+      "released": "27 Aug. 2001",
+      "plot": "Admiring trees and how they grow from seeds, Mister Rogers is inspired to draw an oak tree. In Make-Believe, Prince Tuesday at first is upset with his drawing of the Eiffel Tower, but his neighbors like it and help him appreciate it.",
+      "imDbRating": "8.7",
+      "imDbRatingCount": "12"
+    },
+    {
+      "id": "tt0784095",
+      "seasonNumber": "31",
+      "episodeNumber": "2",
+      "title": "1762: Celebrates the Arts",
+      "image": "https://imdb-api.com/images/original/MV5BMTQ4MDg1NTczNF5BMl5BanBnXkFtZTgwODUyNTY2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "2001",
+      "released": "28 Aug. 2001",
+      "plot": "Mister Rogers has a video of different ways people build sand castles. A neighbor reads a book in Spanish. In Make-Believe, Lady Elaine thinks art is only representational, but Mister Rogers reminds us everyone sees things differently.",
+      "imDbRating": "8.7",
+      "imDbRatingCount": "12"
+    },
+    {
+      "id": "tt0784096",
+      "seasonNumber": "31",
+      "episodeNumber": "3",
+      "title": "1763: Celebrates the Arts",
+      "image": "https://imdb-api.com/images/original/MV5BNzE0MzU4MjY4M15BMl5BanBnXkFtZTgwNzUyNTY2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "2001",
+      "released": "29 Aug. 2001",
+      "plot": "A Native American potter shows how she creates a pot, from gathering the clay to designing it. In Make-Believe, Daniel's feelings are hurt by Lady Elaine's remarks about his mobile, but he knows why she sometimes hurts people's feelings.",
+      "imDbRating": "8.9",
+      "imDbRatingCount": "12"
+    },
+    {
+      "id": "tt0784097",
+      "seasonNumber": "31",
+      "episodeNumber": "4",
+      "title": "1764: Celebrates the Arts",
+      "image": "https://imdb-api.com/images/original/MV5BOTEzNjI3MDQ3OF5BMl5BanBnXkFtZTgwMzUyNTY2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "2001",
+      "released": "30 Aug. 2001",
+      "plot": "Musical art from a glass armonica player and visual art from a quilter. In Make-Believe, Lady Elaine realizes if she's kind to others, they will be kind to her. What matters is what's inside us and how we treat each other.",
+      "imDbRating": "8.7",
+      "imDbRatingCount": "11"
+    },
+    {
+      "id": "tt0649646",
+      "seasonNumber": "31",
+      "episodeNumber": "5",
+      "title": "1765: Celebrates the Arts",
+      "image": "https://imdb-api.com/images/original/MV5BMjIxOTQ4NzgyNF5BMl5BanBnXkFtZTgwMDQ4NDU2MjE@._V1_Ratio1.7778_AL_.jpg",
+      "year": "2001",
+      "released": "31 Aug. 2001",
+      "plot": "In the Neighborhood of Make-Believe Arts Festival, the neighbors find their own ways to express themselves. Mister Rogers has a video that helps us appreciate the wide variety of art and says that being appreciative is a sign of growing.",
+      "imDbRating": "9.5",
+      "imDbRatingCount": "37"
+    }
+  ],
+  "errorMessage": ""
+}
