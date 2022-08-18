@@ -15,4 +15,4 @@ jobs:
         uses: scala-steward-org/scala-steward-action@v2
         with:
           github-token: ${{ secrets.REPO_GITHUB_TOKEN }}
-          author-email: BennyMcBenBen@users.noreply.github.com
+          author-email: 111524427+BottyMcBotBot@users.noreply.github.com
