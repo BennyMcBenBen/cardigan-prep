@@ -7,8 +7,8 @@ lazy val root = (project in file("."))
     name := "cardigan-prep"
   )
 
-libraryDependencies += "co.fs2" %% "fs2-core" % "3.10.0"
-libraryDependencies += "co.fs2" %% "fs2-io" % "3.10.0"
+libraryDependencies += "co.fs2" %% "fs2-core" % "3.10.2"
+libraryDependencies += "co.fs2" %% "fs2-io" % "3.10.2"
 
 libraryDependencies ++= Seq(
   "io.circe" %% "circe-core",
